@@ -8,7 +8,7 @@ This repository hosts the Horiseon company page.  It includes the framework HTML
 
 * [Horiseon Page](#horiseon_page)
 
-## Horiseon Page
+## <a name="horiseon_page"></a>Horiseon Page
 
 Site link: [https://udunomancer.github.io/gt-ft-horiseon-refactor/](https://udunomancer.github.io/gt-ft-horiseon-refactor/)
 
