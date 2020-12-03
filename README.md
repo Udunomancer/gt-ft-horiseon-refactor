@@ -42,3 +42,8 @@ Future improvements TBD
 
 Pull requests are welcome.  Coordinate with Horiseon for changes to company page.
 
+## <a name="license"></a>License
+
+[License](assets/license.txt)
+
+
