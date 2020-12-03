@@ -10,6 +10,7 @@ This repository hosts the Horiseon company page.  It includes the framework HTML
 * [Installation](#installation)
 * [Development Roadmap](#development_roadmap)
 * [Contributing to Horiseon](#contributing)
+* [License](#license)
 
 ## <a name="horiseon_page"></a>Horiseon Page
 
