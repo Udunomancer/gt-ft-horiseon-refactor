@@ -27,7 +27,7 @@ Download repository at [https://github.com/Udunomancer/gt-ft-horiseon-refactor.g
 
 ## <a name="usage"></a>Usage
 
-Open/edit files in editor, example VS Code
+Navigation links contained in the header bar should self link to the three main content sections of the page.
 
 ## <a name="development_roadmap"></a>Development Roadmap
 
