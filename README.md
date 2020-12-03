@@ -6,12 +6,15 @@ This repository hosts the Horiseon company page.
 
 ## Horiseon Page
 
+![Image](assets/images/home_page_screenshot.png)
+
 Horiseon prov
+
+
 
 ## Installation
 
-To access the Horiseon source code
-    - 
+Download repository at [Link](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
 
 Given current Horiseon page:
     - Retain current page functionality, content and usage
@@ -22,6 +25,8 @@ Additional concerns:
     - Improve readability of code by restructuring and commenting code
     - Minor error correction
 
-##
+## Contributing
+
+Pull requests are welcome.  Coordinate with Horiseon for changes to company page.
 
 Homework files for Boot Camp
