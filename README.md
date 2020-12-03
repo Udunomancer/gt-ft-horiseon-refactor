@@ -16,9 +16,9 @@ Horiseon prov
 
 Download repository at [https://github.com/Udunomancer/gt-ft-horiseon-refactor.git](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
 
-## Development Roadmap
+# Development Roadmap
 
-# Recent Changes
+**Recent Changes**
 
 Retained current page functionality, content and usage WHILE
 * Improving accessibility and SEO by implementing semantic html
@@ -27,7 +27,7 @@ Retained current page functionality, content and usage WHILE
 * Minor error correction
 * README file added
 
-# Future Roadmap
+**Future Roadmap**
 
 Future improvements TBD
 
