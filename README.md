@@ -8,11 +8,12 @@ This repository hosts the Horiseon company page.  It includes the framework HTML
 
 * [Horiseon Page](#horiseon_page)
 * [Installation](#installation)
+* [Usage](#usage)
 * [Development Roadmap](#development_roadmap)
 * [Contributing to Horiseon](#contributing)
 * [License](#license)
 
-## <a name="horiseon_page"></a>Horiseon Page
+## <a name="horiseon_page"></a>Horiseon Page Description
 
 Site link: [https://udunomancer.github.io/gt-ft-horiseon-refactor/](https://udunomancer.github.io/gt-ft-horiseon-refactor/)
 
@@ -24,16 +25,28 @@ The Horiseon page is the online presence for Horiseon.  It explains the services
 
 Download repository at [https://github.com/Udunomancer/gt-ft-horiseon-refactor.git](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
 
+## <a name="usage"></a>Usage
+
+Open/edit files in editor, example VS Code
+
 ## <a name="development_roadmap"></a>Development Roadmap
 
 **Recent Changes**
 
-Retained current page functionality, content and usage WHILE
-* Improving accessibility and SEO by implementing semantic html
-* Improving readability of code by reducing redundant code
-* Improving readability of code by restructuring and commenting HTML and CSS files
-* Minor error correction
-* README file added
+Business Client Request (12/3/2020)
+* Maintain content/readability/usability of current site.  Refactor to accomplish:
+    1. Improving accessibility and SEO by implementing semantic html
+    2. Improving accessibility by adding alt attributes to images
+    3. Improving accessibility by updating the HTML title
+    4. Improving readability of code by consolidating CSS styling rules
+    5. Improving readability of code by commenting HTML and CSS files
+    6. Improving readability of code by restructuring HTML
+
+Minor error corrections (12/3/2020)
+* Page self linking corrected
+* Corrected header tag in Footer
+
+README file added/edited to current repository (12/3/2020)
 
 **Future Roadmap**
 
