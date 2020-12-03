@@ -4,6 +4,10 @@
 
 This repository hosts the Horiseon company page.  It includes the framework HTML, styling CSS, and all images used on the site.
 
+## Table of Contents
+
+* [Horiseon Page](#horiseon_page)
+
 ## Horiseon Page
 
 Site link: [https://udunomancer.github.io/gt-ft-horiseon-refactor/](https://udunomancer.github.io/gt-ft-horiseon-refactor/)
