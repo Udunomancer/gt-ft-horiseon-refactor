@@ -14,18 +14,24 @@ Horiseon prov
 
 ## Installation
 
-Download repository at [Link](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
+Download repository at [https://github.com/Udunomancer/gt-ft-horiseon-refactor.git](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
 
-Given current Horiseon page:
-* Retain current page functionality, content and usage
-* Improve accessibility and SEO by implementing semantic html
+## Development Roadmap
 
-Additional concerns:
-* Improve readability of code by reducing redundant code
-* Improve readability of code by restructuring and commenting code
+# Recent Changes
+
+Retained current page functionality, content and usage WHILE
+* Improving accessibility and SEO by implementing semantic html
+* Improving readability of code by reducing redundant code
+* Improving readability of code by restructuring and commenting HTML and CSS files
 * Minor error correction
+* README file added
 
-## Contributing
+# Future Roadmap
+
+Future improvements TBD
+
+## Contributing to Horiseon
 
 Pull requests are welcome.  Coordinate with Horiseon for changes to company page.
 
