@@ -7,6 +7,9 @@ This repository hosts the Horiseon company page.  It includes the framework HTML
 ## Table of Contents
 
 * [Horiseon Page](#horiseon_page)
+* [Installation](#installation)
+* [Development Roadmap](#development_roadmap)
+* [Contributing to Horiseon](#contributing)
 
 ## <a name="horiseon_page"></a>Horiseon Page
 
@@ -16,11 +19,11 @@ Site link: [https://udunomancer.github.io/gt-ft-horiseon-refactor/](https://udun
 
 The Horiseon page is the online presence for Horiseon.  It explains the services and benefits that the company provides.
 
-## Installation
+## <a name="installation"></a>Installation
 
 Download repository at [https://github.com/Udunomancer/gt-ft-horiseon-refactor.git](https://github.com/Udunomancer/gt-ft-horiseon-refactor.git).
 
-## Development Roadmap
+## <a name="development_roadmap"></a>Development Roadmap
 
 **Recent Changes**
 
@@ -35,7 +38,7 @@ Retained current page functionality, content and usage WHILE
 
 Future improvements TBD
 
-## Contributing to Horiseon
+## <a name="contributing"></a>Contributing to Horiseon
 
 Pull requests are welcome.  Coordinate with Horiseon for changes to company page.
 
