@@ -1,16 +1,19 @@
 # Horiseon Accessibilty Refactor
+***
 
 ## Repository
+***
 
-This repository hosts the Horiseon company page.
+This repository hosts the Horiseon company page.  It includes the framework HTML, styling CSS, and all images used on the site.
+
+Site link: [https://udunomancer.github.io/gt-ft-horiseon-refactor/](https://udunomancer.github.io/gt-ft-horiseon-refactor/)
 
 ## Horiseon Page
+***
 
 ![Image](assets/images/home_page_screenshot.png)
 
-Horiseon prov
-
-
+The Horiseon page is the online presence for Horiseon.  It explains the services and benefits that the company provides.
 
 ## Installation
 
@@ -35,4 +38,3 @@ Future improvements TBD
 
 Pull requests are welcome.  Coordinate with Horiseon for changes to company page.
 
-Homework files for Boot Camp
